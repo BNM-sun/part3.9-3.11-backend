@@ -12,7 +12,11 @@
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
+<<<<<<< HEAD
     "mongoose": "^7.8.9",
+=======
+    "mongoose": "^9.5.0",
+>>>>>>> fe93d45bb0c0529cd110cb015e39bb86ebc785e0
     "morgan": "^1.10.1"
   },
   "devDependencies": {
